@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group>
+        <item
+            android:id="@+id/action_about"
+            android:title="关于"
+            app:showAsAction="ifRoom"/>
+        <item
+            android:id="@+id/action_edit"
+            android:title="编辑"
+            app:showAsAction="ifRoom"/>
+        <item
+            android:id="@+id/action_copy"
+            android:title="复制"
+            app:showAsAction="ifRoom"/>
+        <item
+            android:id="@+id/action_delete"
+            android:title="删除"
+            app:showAsAction="ifRoom"/>
+        <item
+            android:id="@+id/action_ab9out"
+            android:title="关于"
+            app:showAsAction="ifRoom"/>
+        <item
+            android:id="@+id/action_e8dit"
+            android:title="编辑"
+            app:showAsAction="ifRoom"/>
+        <item
+            android:id="@+id/action_c7opy"
+            android:title="复制"
+            app:showAsAction="ifRoom"/>
+        <item
+            android:id="@+id/action_del6ete"
+            android:title="删除"
+            app:showAsAction="ifRoom"/>
+        <item
+            android:id="@+id/action_ab5out"
+            android:title="关于"
+            app:showAsAction="ifRoom"/>
+        <item
+            android:id="@+id/action_ed4it"
+            android:title="编辑"
+            app:showAsAction="ifRoom"/>
+        <item
+            android:id="@+id/action_co3py"
+            android:title="复制"
+            app:showAsAction="ifRoom"/>
+        <item
+            android:id="@+id/action_dele2te"
+            android:title="删除"
+            app:showAsAction="ifRoom"/>
+    </group>
+
+</menu>
